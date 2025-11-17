@@ -27,7 +27,7 @@ La aplicación de control de asistencia busca registrar de manera eficiente la e
 | CP03 | Doble entrada |	ID Usuario sin haber registrado salida |	Se bloquea registro y se muestra advertencia |	✔ |
 | CP03 | Consulta de historial | ID Usuario |	Muestra lista de asistencias |	✔ |
 | CP05 |	Usuario inexistente |	ID no registrado |	Mensaje de error |	✔ |
-## tipo de mantenimiento prupuesto
+## Tipo de mantenimiento prupuesto
 El tipo de mantenimiento recomendado para esta aplicacion es:
 # Mantenimiento Perfectivo
 Se selecciona este tipo porque, una vez funcionando el sistema, será necesario mejorar características como:
